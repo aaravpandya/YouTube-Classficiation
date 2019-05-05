@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_sc
 import re
 
 
-dataset = pd.read_csv("output2.csv",encoding = "latin-1")
+dataset = pd.read_csv("output.csv",encoding = "latin-1")
 dataset.dropna(inplace=True)
 dataset["description"] = dataset["title"]+dataset["description"]
 dataset["description"] = [line.lower() for line in dataset["description"]]
@@ -36,7 +36,7 @@ for i,w in enumerate(dataset["description"]):
     dataset.loc[i,'text_final'] = str(l)
 
 print(dataset["text_final"].head)
-dataset.to_csv("pre_processed_data2.csv",index=False)
+dataset.to_csv("pre_processed_data.csv",index=False)
 dataset.dropna(inplace=True)
 
 X_train, X_test, Y_train, Y_test = model_selection.train_test_split(dataset['text_final'],dataset['label'],test_size=0.3)
