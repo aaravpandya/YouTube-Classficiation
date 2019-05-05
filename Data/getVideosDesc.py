@@ -5,7 +5,7 @@ url = "https://www.googleapis.com/youtube/v3/channels"
 key ="AIzaSyBtIIMV0bKymmTAEjW9m7HWHKMx1jOGQjQ"
 
 links = {}
-with open("TravelChannelLinks1.json", 'r') as fp:
+with open("ChannelLinks.json", 'r') as fp:
     links = json.load(fp)
 print(links)
 d = {}
@@ -21,10 +21,10 @@ for l in links['urls']:
     response = requests.request("GET", url,params=querystring)
     d[l] = json.loads(response.text)
 
-with open("TravelChannels2.json", 'w') as fp:
+with open("ChannelSnippets.json", 'w') as fp:
     json.dump(d,fp,indent=4)
 d={}
-with open("TravelChannels2.json", 'r') as fp:
+with open("ChannelSnippets.json", 'r') as fp:
     d = json.load(fp)
 
 # list all the videos in a particular channel
@@ -55,7 +55,7 @@ for k in d:
     except Exception as e: 
         print(e)
     videoResponse[id] = responses
-    with open("TravelChannels3.json",'w') as fp:
+    with open("VideoSnippets.json",'w') as fp:
         json.dump(videoResponse,fp,indent=4)
     # # Get video info for each video. Couldnt do this since youtube's api limits requests to 10000.
     # for resp in responses:

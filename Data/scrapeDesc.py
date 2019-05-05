@@ -8,7 +8,7 @@ import json
 
 
 responses = {}
-with open("TravelChannels3.json",'r') as fp:
+with open("VideoSnippets.json",'r') as fp:
        responses = json.load(fp)
 
 #get descriptions from html scraped. titles are directly taken from the previous steps
@@ -40,6 +40,6 @@ for key in responses:
                 continue
         d = {}
         d["desc"] = descriptions
-        with open("TravelScraped2.json", 'w') as fp:
+        with open("Scraped.json", 'w') as fp:
             json.dump(d,fp,indent=4)
         print(ctr)
