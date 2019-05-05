@@ -1,0 +1,216 @@
+{
+    "UCBhw3paho_ARv1En_WHqvAA": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BA4mgcCgkJCvd6VRhfBJ-W2JchU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WAG0ALciHtQuDVDOQG2Y0LbbPjg\"",
+                "id": "UCBhw3paho_ARv1En_WHqvAA",
+                "snippet": {
+                    "title": "Pineberry Manufacturing Inc.",
+                    "description": "Manufacturer of Friction Feeders, Pick and Place Systems, Plastic Card Solutions and Custom Automation Systems.\n\nSince 1984, Pineberry Manufacturing Inc. has been developing high-quality Friction Feeding, Printing, Packaging, Pick and Place, and Custom Automation Solutions for the Printing, Packaging, Pharmaceutical, Food, Mailing and Plastic Card industries.\n\nPineberry Manufacturing Inc. has integrated feeders to conveyor lines, packaging systems, printing systems, drill presses, gluers, mailing equipment and more. Many of these systems are now part of the Pineberry line of products.\n\nPineberry Manufacturing Inc. strives to offer simple, durable and cost efficient; yet innovative automation.\n\nhttp://www.pineberryinc.com/",
+                    "customUrl": "Pineberryinc",
+                    "publishedAt": "2011-07-04T16:10:20.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-G_jHLqwGFQ7S2Fz3YercnBsoBPreZQYoGtQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-G_jHLqwGFQ7S2Fz3YercnBsoBPreZQYoGtQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-G_jHLqwGFQ7S2Fz3YercnBsoBPreZQYoGtQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Pineberry Manufacturing Inc.",
+                        "description": "Manufacturer of Friction Feeders, Pick and Place Systems, Plastic Card Solutions and Custom Automation Systems.\n\nSince 1984, Pineberry Manufacturing Inc. has been developing high-quality Friction Feeding, Printing, Packaging, Pick and Place, and Custom Automation Solutions for the Printing, Packaging, Pharmaceutical, Food, Mailing and Plastic Card industries.\n\nPineberry Manufacturing Inc. has integrated feeders to conveyor lines, packaging systems, printing systems, drill presses, gluers, mailing equipment and more. Many of these systems are now part of the Pineberry line of products.\n\nPineberry Manufacturing Inc. strives to offer simple, durable and cost efficient; yet innovative automation.\n\nhttp://www.pineberryinc.com/"
+                    },
+                    "country": "CA"
+                }
+            }
+        ]
+    },
+    "MeridianManufacturin": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XTCm03s5WvLFFkkzDiX_yAooV0c\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/73aWR-2Gcc0K49TA-hSMbqkM1gs\"",
+                "id": "UCf5wpQzVYLqeyhHS8A8KiJw",
+                "snippet": {
+                    "title": "Meridian Manufacturing",
+                    "description": "Meridian Manufacturing is the innovator and largest manufacturer of smooth-wall hopper bins with six world class manufacturing locations across North America. MERIDIAN\u00ae products are used extensively for storage needs in the agricultural, commercial, petroleum and the oil and gas industries. Discover more about our product line by watching our videos.",
+                    "customUrl": "MeridianManufacturin",
+                    "publishedAt": "2014-09-12T22:31:04.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-5ru6HnE0u1M04SfYn6R6OK3rnnDHaVBDB6g=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-5ru6HnE0u1M04SfYn6R6OK3rnnDHaVBDB6g=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-5ru6HnE0u1M04SfYn6R6OK3rnnDHaVBDB6g=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Meridian Manufacturing",
+                        "description": "Meridian Manufacturing is the innovator and largest manufacturer of smooth-wall hopper bins with six world class manufacturing locations across North America. MERIDIAN\u00ae products are used extensively for storage needs in the agricultural, commercial, petroleum and the oil and gas industries. Discover more about our product line by watching our videos."
+                    }
+                }
+            }
+        ]
+    },
+    "manufactureornl": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/a11o_2qSbzQAIdZc-gRVWFougSY\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7cqPeG5vTxgZuwQGnqZYvXToU3g\"",
+                "id": "UC8Ol-nPFJ-tCAV997_bejzw",
+                "snippet": {
+                    "title": "Innovations in Manufacturing at Oak Ridge National Laboratory",
+                    "description": "Latest innovations in advanced manufacturing at Oak Ridge National Laboratory.",
+                    "customUrl": "manufactureornl",
+                    "publishedAt": "2011-06-06T20:14:19.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_o0wM-waTnY0O1qgl1LpBVfpWpmsdpvCVinA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_o0wM-waTnY0O1qgl1LpBVfpWpmsdpvCVinA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_o0wM-waTnY0O1qgl1LpBVfpWpmsdpvCVinA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Innovations in Manufacturing at Oak Ridge National Laboratory",
+                        "description": "Latest innovations in advanced manufacturing at Oak Ridge National Laboratory."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "UCVGf7K6lzN1tMJ_ZKCwTrRQ": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KJeXC8qkzU_ILIHNN0HpPQzzI2Y\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FONN2icZ_w8EgTA51jDuYoA7mw0\"",
+                "id": "UCVGf7K6lzN1tMJ_ZKCwTrRQ",
+                "snippet": {
+                    "title": "3M Manufacturing",
+                    "description": "3M Abrasives offers a variety of solutions for your industrial applications. We serve markets from aerospace to woodworking, and applications from weld grinding to paint prep. Inspired by over a century of innovation, our videos can help you get the job done, faster.\nCutting-edge 3M abrasives keep manufacturers competitive with sandpaper solutions and surface modification systems that add efficiency, productivity and high performance to industrial abrasive operations. From repairing automotive finishes on the factory floor to creating a cleaner shop environment for cabinet makers, 3M brings the power of new ideas to the \u201cscience of smooth,\u201d helping manufacturers save time and money in every phase of finishing.\nVideos showcase 3M abrasive brands such as:\n\u2022 3M\u2122 Cubitron\u2122 II\n\u2022 Scotch-Brite\u2122\n\u2022 3M\u2122 Trizact\u2122\nVisit us here for all your industrial abrasive needs: 3M.com/abrasives",
+                    "customUrl": "3mmanufacturing",
+                    "publishedAt": "2009-05-06T21:35:38.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-ce6Aqkw4jQIWkTsm9ougGUcEKJOfLlRwg2Q=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-ce6Aqkw4jQIWkTsm9ougGUcEKJOfLlRwg2Q=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-ce6Aqkw4jQIWkTsm9ougGUcEKJOfLlRwg2Q=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "3M Manufacturing",
+                        "description": "3M Abrasives offers a variety of solutions for your industrial applications. We serve markets from aerospace to woodworking, and applications from weld grinding to paint prep. Inspired by over a century of innovation, our videos can help you get the job done, faster.\nCutting-edge 3M abrasives keep manufacturers competitive with sandpaper solutions and surface modification systems that add efficiency, productivity and high performance to industrial abrasive operations. From repairing automotive finishes on the factory floor to creating a cleaner shop environment for cabinet makers, 3M brings the power of new ideas to the \u201cscience of smooth,\u201d helping manufacturers save time and money in every phase of finishing.\nVideos showcase 3M abrasive brands such as:\n\u2022 3M\u2122 Cubitron\u2122 II\n\u2022 Scotch-Brite\u2122\n\u2022 3M\u2122 Trizact\u2122\nVisit us here for all your industrial abrasive needs: 3M.com/abrasives"
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "DelcamAMS": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FdTN24dsmFKMc63J3hzimMsbXlc\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/guytK8Y2Fz5wgzuPWzv_4BIY184\"",
+                "id": "UCF7yv_mTUQBOxHreCiqNwOA",
+                "snippet": {
+                    "title": "Autodesk Manufacturing",
+                    "description": "Whether you are new to Autodesk products, or an experienced user, you may not be aware of the complementary technologies available from Autodesk that could improve your company's productivity. \n\nAutodesk offers a complete and diverse range of advanced CAD/CAM software solutions to help every aspect of your manufacturing process, from design concept to manufactured part or tool, providing you with unrivaled speed, flexibility, and ease-of-use. \n\nAdding to your suite of Autodesk solutions minimizes the impact on your daily production operations while also enabling you to enter new markets or to automate your process with our advanced functionality.\n\nAll products are capable of working independently or together as one complete manufacturing solution tailored to your specific needs.",
+                    "customUrl": "DelcamAMS",
+                    "publishedAt": "2010-07-05T14:00:42.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_3NHxMnswNuJSyH5HMOBDxU_TvjKKSeZfnyA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_3NHxMnswNuJSyH5HMOBDxU_TvjKKSeZfnyA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_3NHxMnswNuJSyH5HMOBDxU_TvjKKSeZfnyA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Autodesk Manufacturing",
+                        "description": "Whether you are new to Autodesk products, or an experienced user, you may not be aware of the complementary technologies available from Autodesk that could improve your company's productivity. \n\nAutodesk offers a complete and diverse range of advanced CAD/CAM software solutions to help every aspect of your manufacturing process, from design concept to manufactured part or tool, providing you with unrivaled speed, flexibility, and ease-of-use. \n\nAdding to your suite of Autodesk solutions minimizes the impact on your daily production operations while also enabling you to enter new markets or to automate your process with our advanced functionality.\n\nAll products are capable of working independently or together as one complete manufacturing solution tailored to your specific needs."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    }
+}

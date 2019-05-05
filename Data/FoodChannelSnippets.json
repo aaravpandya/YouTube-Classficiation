@@ -1,0 +1,87 @@
+{
+    "SuperVeggieDelight": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dIwaywz7X5u9kWobggzDrvlRaZc\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CxnGt4qb6bEg6L4wDOtNO1zgVrU\"",
+                "id": "UCM4vLyVm4MPhS3o5o729Udg",
+                "snippet": {
+                    "title": "Bhavna's Kitchen",
+                    "description": "Your one stop for Food, Fitness, Fashion/beauty and more!\nwebsite: http://www.bhavnaskitchen.com   \nMy health and beauty starts from my kitchen!\nMy love for food is infinite, my passion for cooking is my happiness.\nI love to prepare exotic vegetarian cuisine recipes from all around the world with a hint of Indian flavor.....I truly believe that good food brings family and friends together. It doesn't have to be elaborate but simple yet inviting. \n\nYoga/Exercise is amazing, from the inside out. I feel so alive and energetic. Good food brings positive feelings but at the same time, we may gain some extra fat and to avoid that after eating all yummy food, fitness is must and I keep myself fit by doing regular yoga and walk.\nEveryday is a fashion show and world is your runway. So always dress your best and walk with confidence!\nA mother of two lovely kids love to share my life style with world.",
+                    "customUrl": "SuperVeggieDelight",
+                    "publishedAt": "2009-04-17T14:57:22.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_-trJCBJOs3zYBCIt3EFyDkrS36wmx1wimCA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_-trJCBJOs3zYBCIt3EFyDkrS36wmx1wimCA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_-trJCBJOs3zYBCIt3EFyDkrS36wmx1wimCA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Bhavna's Kitchen",
+                        "description": "Your one stop for Food, Fitness, Fashion/beauty and more!\nwebsite: http://www.bhavnaskitchen.com   \nMy health and beauty starts from my kitchen!\nMy love for food is infinite, my passion for cooking is my happiness.\nI love to prepare exotic vegetarian cuisine recipes from all around the world with a hint of Indian flavor.....I truly believe that good food brings family and friends together. It doesn't have to be elaborate but simple yet inviting. \n\nYoga/Exercise is amazing, from the inside out. I feel so alive and energetic. Good food brings positive feelings but at the same time, we may gain some extra fat and to avoid that after eating all yummy food, fitness is must and I keep myself fit by doing regular yoga and walk.\nEveryday is a fashion show and world is your runway. So always dress your best and walk with confidence!\nA mother of two lovely kids love to share my life style with world."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "stillcurrentstudios": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/l8tvN6kHT64tq6H8KY-CCKZ4_HE\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5br_hey6ddUWBzv6FyxkH-Hlg4A\"",
+                "id": "UCvbLpfvAnGTpyO0tnw0YKGQ",
+                "snippet": {
+                    "title": "Edgy Veg",
+                    "description": "The Edgy Veg is a delicious vegan and vegetarian movement catering to the forward-thinking meal-creators of the often-boring veg community. It is a channel on a journey to revolutionize the food we define as \u201cvegan\u201d. Instead of salads and smoothies, Candice & James choose to re-purpose familiar favorites, by recreating childhood cravings for an audience with sophisticated palettes and food-nerd obsessions. Decadent desserts, trendy dishes, and fast food favourites-- nothing is off-limits and everything is vegan. Every recipe can be enjoyed by vegans, vegetarians and omnivores alike\u2013they\u2019re Carnivore Approved! \nThe Edgy Veg Inc.\n\nPlease LIKE, comment and subscribe! :) \n\nNew recipes and vegan cooking every Monday - vlogs, grocery hauls, taste tests and everything else on Wednesday! \n\nGet your copy of:  \"The Edgy Veg Cookbook - 138 Carnivore Approved Vegan Recipes\" http://theedgyveg.com/edgy-veg-cookbook/\n\nFor business inquiries: edgyveg@gmail.com\nhttp://www.theedgyveg.com",
+                    "customUrl": "edgyveg",
+                    "publishedAt": "2012-07-25T19:29:59.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78aPtN4YLGIwmKrnn4xNDw5Ml0wjcZyO5rhfA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78aPtN4YLGIwmKrnn4xNDw5Ml0wjcZyO5rhfA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78aPtN4YLGIwmKrnn4xNDw5Ml0wjcZyO5rhfA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Edgy Veg",
+                        "description": "The Edgy Veg is a delicious vegan and vegetarian movement catering to the forward-thinking meal-creators of the often-boring veg community. It is a channel on a journey to revolutionize the food we define as \u201cvegan\u201d. Instead of salads and smoothies, Candice & James choose to re-purpose familiar favorites, by recreating childhood cravings for an audience with sophisticated palettes and food-nerd obsessions. Decadent desserts, trendy dishes, and fast food favourites-- nothing is off-limits and everything is vegan. Every recipe can be enjoyed by vegans, vegetarians and omnivores alike\u2013they\u2019re Carnivore Approved! \nThe Edgy Veg Inc.\n\nPlease LIKE, comment and subscribe! :) \n\nNew recipes and vegan cooking every Monday - vlogs, grocery hauls, taste tests and everything else on Wednesday! \n\nGet your copy of:  \"The Edgy Veg Cookbook - 138 Carnivore Approved Vegan Recipes\" http://theedgyveg.com/edgy-veg-cookbook/\n\nFor business inquiries: edgyveg@gmail.com\nhttp://www.theedgyveg.com"
+                    }
+                }
+            }
+        ]
+    }
+}

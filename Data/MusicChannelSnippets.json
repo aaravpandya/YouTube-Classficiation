@@ -1,0 +1,825 @@
+{
+    "VEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hqft5NKe6Crj3mTKDh-BMngMJ48\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ELYpXU2N--scBitG7T07iAodQZs\"",
+                "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
+                "snippet": {
+                    "title": "Vevo",
+                    "description": "Vevo on YouTube - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "VEVO",
+                    "publishedAt": "2006-04-14T17:07:29.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79YSnQtxSGI1MjZbhukmdguFKhfqVFguDmvZw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79YSnQtxSGI1MjZbhukmdguFKhfqVFguDmvZw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79YSnQtxSGI1MjZbhukmdguFKhfqVFguDmvZw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Vevo",
+                        "description": "Vevo on YouTube - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "JustinBieberVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/587MJ8fNz1CkzIZZjZaZhsvNpic\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/S1Hb4nH5joCA2hk6LWPDRw38PY0\"",
+                "id": "UCHkj014U2CQ2Nv0UZeYpE_A",
+                "snippet": {
+                    "title": "JustinBieberVEVO",
+                    "description": "Justin Bieber on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "JustinBieberVEVO",
+                    "publishedAt": "2009-09-26T03:46:15.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-pdDqLRL961Qz4RY-MLE2QGUR0jfaTxef-cg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-pdDqLRL961Qz4RY-MLE2QGUR0jfaTxef-cg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-pdDqLRL961Qz4RY-MLE2QGUR0jfaTxef-cg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "JustinBieberVEVO",
+                        "description": "Justin Bieber on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "KatyPerryVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IGsvZ_oaEt5MRRmfcjDhgQ21bXA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PDsdpXe7Tp-V32Wfyl8RDOwf6Vk\"",
+                "id": "UC-8Q-hLdECwQmaWNwXitYDw",
+                "snippet": {
+                    "title": "KatyPerryVEVO",
+                    "description": "Katy Perry on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "KatyPerryVEVO",
+                    "publishedAt": "2009-12-13T03:04:53.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78jFNqlYlSHTrjjt692sZ-F6jJjPuFhhj4b-A=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78jFNqlYlSHTrjjt692sZ-F6jJjPuFhhj4b-A=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78jFNqlYlSHTrjjt692sZ-F6jJjPuFhhj4b-A=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "KatyPerryVEVO",
+                        "description": "Katy Perry on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "KodalineVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qDibFKPvzqRUpdoTJN2vxaxpJQg\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dMyjFu-Xim16vbxceKjCbOQpDqY\"",
+                "id": "UCfm1wtWNhY4Q09K0PX_h9Mw",
+                "snippet": {
+                    "title": "KodalineVEVO",
+                    "description": "Kodaline on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "KodalineVEVO",
+                    "publishedAt": "2012-06-19T18:30:55.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-3VyI8zTHv16MrHq77fg03z_qN38xVepndfQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-3VyI8zTHv16MrHq77fg03z_qN38xVepndfQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-3VyI8zTHv16MrHq77fg03z_qN38xVepndfQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "KodalineVEVO",
+                        "description": "Kodaline on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "TroyesivanMusicVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dddDkthzSlAiF9nrE5xnF3UbSsY\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/z8Rowb31uZZvsf-w1kaAKtFMm4w\"",
+                "id": "UCnsa7fw1hZHP5qvf8zVGnvA",
+                "snippet": {
+                    "title": "TroyeSivanVEVO",
+                    "description": "Troye Sivan on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "TroyesivanMusicVEVO",
+                    "publishedAt": "2014-07-14T17:27:40.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78K_UDk9RO7M7dOTKsniewhUKcfpyfZ7oqPaQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78K_UDk9RO7M7dOTKsniewhUKcfpyfZ7oqPaQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78K_UDk9RO7M7dOTKsniewhUKcfpyfZ7oqPaQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "TroyeSivanVEVO",
+                        "description": "Troye Sivan on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "TaylorSwiftVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/h-vBH57SUj31H_keNaQcg41pKRU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IgZed09PTIrAP32UUVVLN3eYRPc\"",
+                "id": "UCANLZYMidaCbLQFWXBC95Jg",
+                "snippet": {
+                    "title": "TaylorSwiftVEVO",
+                    "description": "",
+                    "customUrl": "TaylorSwiftVEVO",
+                    "publishedAt": "2009-05-12T05:29:33.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78jSjcRilhkD11bTIjnlJA1ziqBJwrVNXHPAw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78jSjcRilhkD11bTIjnlJA1ziqBJwrVNXHPAw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78jSjcRilhkD11bTIjnlJA1ziqBJwrVNXHPAw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "TaylorSwiftVEVO",
+                        "description": ""
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "EminemVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wtVR6hL86dhBjsr5fIaBg2Hmx3s\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8aOlijQlU3OcNDCm1kMtgq1o7Kk\"",
+                "id": "UC20vb-R_px4CguHzzBPhoyQ",
+                "snippet": {
+                    "title": "EminemVEVO",
+                    "description": "Eminem on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "EminemVEVO",
+                    "publishedAt": "2009-05-12T05:27:52.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79RDzH0C6eyRM1VP4CpBFsUskA0zu76b6BpLQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79RDzH0C6eyRM1VP4CpBFsUskA0zu76b6BpLQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79RDzH0C6eyRM1VP4CpBFsUskA0zu76b6BpLQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "EminemVEVO",
+                        "description": "Eminem on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "DJSnakeVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EYwA1tzLRNsZo9oK8Xn2-TmOS1U\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/btfCQi0Uk0GLzd_ICUh_ecMu_n4\"",
+                "id": "UCGkSXL5saM8y3VvJD_PdMFQ",
+                "snippet": {
+                    "title": "DJSnakeVEVO",
+                    "description": "DJ Snake on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "DJSnakeVEVO",
+                    "publishedAt": "2014-01-27T17:49:09.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79s-WKeIiucqfMPgXPImDqLvOitp4z4vHBv_A=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79s-WKeIiucqfMPgXPImDqLvOitp4z4vHBv_A=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79s-WKeIiucqfMPgXPImDqLvOitp4z4vHBv_A=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "DJSnakeVEVO",
+                        "description": "DJ Snake on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "YoungJeezyVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/c4SYbGYVQfKASs8aowsWZEGy69k\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WcdmyBZBNkoWtCY2NthgD9zxAwg\"",
+                "id": "UCl1f01Dy5pim6F9hmXV4rPg",
+                "snippet": {
+                    "title": "JeezyVEVO",
+                    "description": "Get \"GoldBottles\" Now:\n \niTunes: http://smarturl.it/iGoldBottles?IQid=VEVO\nGoogle: http://smarturl.it/gGoldBottles?IQid=VEVO\nAmazon: http://smarturl.it/aGoldBottles?IQid=VEVO\n \nStream, Share, & Add To Your Spotify Playlist: http://smarturl.it/sGoldBottles?IQid=VEVO",
+                    "customUrl": "YoungJeezyVEVO",
+                    "publishedAt": "2009-05-12T05:29:55.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-7mm_Wpp3FIIw6L9GNpIVKPjkIm1GU1MVV=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-7mm_Wpp3FIIw6L9GNpIVKPjkIm1GU1MVV=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-7mm_Wpp3FIIw6L9GNpIVKPjkIm1GU1MVV=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "JeezyVEVO",
+                        "description": "Get \"GoldBottles\" Now:\n \niTunes: http://smarturl.it/iGoldBottles?IQid=VEVO\nGoogle: http://smarturl.it/gGoldBottles?IQid=VEVO\nAmazon: http://smarturl.it/aGoldBottles?IQid=VEVO\n \nStream, Share, & Add To Your Spotify Playlist: http://smarturl.it/sGoldBottles?IQid=VEVO"
+                    }
+                }
+            }
+        ]
+    },
+    "SiaVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8ncdMGa8yPPKRssuYzMLVWN6aqw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7SMWbop9OobFTZPbE-We7bKDAvY\"",
+                "id": "UCmKdSrwf1e8coqAzUsrVHZw",
+                "snippet": {
+                    "title": "SiaVEVO",
+                    "description": "Sia on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "SiaVEVO",
+                    "publishedAt": "2009-05-12T05:29:21.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79qLGstdLrwbU9J637IOdfTQiWHqLi0HzAAWQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79qLGstdLrwbU9J637IOdfTQiWHqLi0HzAAWQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79qLGstdLrwbU9J637IOdfTQiWHqLi0HzAAWQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "SiaVEVO",
+                        "description": "Sia on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "AimerOfficialVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/v6BcN1FrlLE_ocR60Z_mV9Ih8io\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AUb26kSPcy6NZyrfQ9rW48XyfYI\"",
+                "id": "UCt9nXw6simdw_VUjsYrV2cw",
+                "snippet": {
+                    "title": "AimerOfficialVEVO",
+                    "description": "",
+                    "customUrl": "AimerOfficialVEVO",
+                    "publishedAt": "2013-05-29T00:30:03.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_B2jsGo4BOl_6veteKeuatc38NJ_UXC2eC8A=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_B2jsGo4BOl_6veteKeuatc38NJ_UXC2eC8A=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_B2jsGo4BOl_6veteKeuatc38NJ_UXC2eC8A=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "AimerOfficialVEVO",
+                        "description": ""
+                    }
+                }
+            }
+        ]
+    },
+    "LIVELOVEASAPVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_BysLEO1G-jhkjH3CiYiMIJQKmI\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aRs-zX7sBE-0foLOIOfuFMe16Wo\"",
+                "id": "UCHE7rAi1Fw1CBmQXFtvJmrw",
+                "snippet": {
+                    "title": "LIVELOVEASAPVEVO",
+                    "description": "A$AP Rocky on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "LIVELOVEASAPVEVO",
+                    "publishedAt": "2011-12-07T23:05:46.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79LoJREYOhsw77qREQI_fmtTewpHI9rLjQXHg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79LoJREYOhsw77qREQI_fmtTewpHI9rLjQXHg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79LoJREYOhsw77qREQI_fmtTewpHI9rLjQXHg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "LIVELOVEASAPVEVO",
+                        "description": "A$AP Rocky on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "RihannaVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SDkVmNeflnglz3S01l-PgAr1eTw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-Dxjt0dk2Los4fSPZ6sysD0yOGE\"",
+                "id": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "snippet": {
+                    "title": "RihannaVEVO",
+                    "description": "Rihanna on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "RihannaVEVO",
+                    "publishedAt": "2009-05-12T05:29:11.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_NB1kzlaFCkPfmZCR8UY8nmNtIMwCaM5GXGw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_NB1kzlaFCkPfmZCR8UY8nmNtIMwCaM5GXGw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_NB1kzlaFCkPfmZCR8UY8nmNtIMwCaM5GXGw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "RihannaVEVO",
+                        "description": "Rihanna on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "SadeVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/l9lwmKWalFQM64lVJDvSnpg8IPg\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/emWrtOoVXood0B6JzrPAOxIOVV8\"",
+                "id": "UC9vGD_KFNiQOHSeUoxIM3yQ",
+                "snippet": {
+                    "title": "SadeVEVO",
+                    "description": "Sade\nThe official Vevo channel for the British iconic band #sade of Sade Adu, Stuart Matthewman, Andrew Hale, Paul S. Denman\n@sadeofficial\nwww.sade.com",
+                    "customUrl": "SadeVEVO",
+                    "publishedAt": "2009-09-02T23:35:53.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-a2W7NJml9lxMs2m2_lTn0W4se4YNvhgeZxg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-a2W7NJml9lxMs2m2_lTn0W4se4YNvhgeZxg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-a2W7NJml9lxMs2m2_lTn0W4se4YNvhgeZxg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "SadeVEVO",
+                        "description": "Sade\nThe official Vevo channel for the British iconic band #sade of Sade Adu, Stuart Matthewman, Andrew Hale, Paul S. Denman\n@sadeofficial\nwww.sade.com"
+                    }
+                }
+            }
+        ]
+    },
+    "OfficialKhalidVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wblKrxRtLU0eafDb6BrMLaJkhJU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/y1BSvWgz9E6yEQPZNp0Nr86DN8U\"",
+                "id": "UCcN-NDV03eHs6oLd1pe2r8w",
+                "snippet": {
+                    "title": "KhalidVEVO",
+                    "description": "Khalid on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "OfficialKhalidVEVO",
+                    "publishedAt": "2016-08-29T18:09:12.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79VPeDUmOS-auFj9O004tGgKszXguIG9TY-iQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79VPeDUmOS-auFj9O004tGgKszXguIG9TY-iQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79VPeDUmOS-auFj9O004tGgKszXguIG9TY-iQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "KhalidVEVO",
+                        "description": "Khalid on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "SelenaGomezVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/BkU6PowcaVXgpm3M6-fxE8SkbTc\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Xn5QS5YUx6VKJ3qGFok1C_yPGDo\"",
+                "id": "UCjK8ORC71kwyj1DWFwril_A",
+                "snippet": {
+                    "title": "SelenaGomezVEVO",
+                    "description": "Selena Gomez on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "SelenaGomezVEVO",
+                    "publishedAt": "2009-11-24T23:11:30.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-ftclaeZ0CsLWEH8ib23d2RXluNWbcefAQWg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-ftclaeZ0CsLWEH8ib23d2RXluNWbcefAQWg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-ftclaeZ0CsLWEH8ib23d2RXluNWbcefAQWg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "SelenaGomezVEVO",
+                        "description": "Selena Gomez on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "OneDirectionVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1r83qhFksfXsU49p53jlHUlJnrA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HTyV7jv9jkrk1JqHbO8N-LQ7pm8\"",
+                "id": "UCbW18JZRgko_mOGm5er8Yzg",
+                "snippet": {
+                    "title": "OneDirectionVEVO",
+                    "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "OneDirectionVEVO",
+                    "publishedAt": "2010-12-04T21:25:34.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79aFwgbhhFbGICAx5oGAW6NGuR4hx2Mvb6gfg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79aFwgbhhFbGICAx5oGAW6NGuR4hx2Mvb6gfg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79aFwgbhhFbGICAx5oGAW6NGuR4hx2Mvb6gfg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "OneDirectionVEVO",
+                        "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    },
+    "KanyeWestVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QWArw3YZIOt3PYqsJhSdKXy6QMw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ANuZK_ENsH5xJOH7qzPBcKaTdQ8\"",
+                "id": "UChpJbg7zMbi5jx9Gdjaxa9g",
+                "snippet": {
+                    "title": "KanyeWestVEVO",
+                    "description": "Kanye West on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "KanyeWestVEVO",
+                    "publishedAt": "2009-05-12T05:28:21.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79ftgGjxVec5Tc5kfaSJGPAE-Ugm6uRAmiWgg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79ftgGjxVec5Tc5kfaSJGPAE-Ugm6uRAmiWgg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79ftgGjxVec5Tc5kfaSJGPAE-Ugm6uRAmiWgg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "KanyeWestVEVO",
+                        "description": "Kanye West on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "PitbullVEVO": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ukozbqb8lH5N3ZPnSW6pcv8jQe0\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9aLJ-IFMwBzc-gJYP_-PA-C6qlI\"",
+                "id": "UCVWA4btXTFru9qM06FceSag",
+                "snippet": {
+                    "title": "PitbullVEVO",
+                    "description": "Pitbull on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+                    "customUrl": "PitbullVEVO",
+                    "publishedAt": "2009-05-12T05:29:04.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_eY-DOCt4tf_xpKEM5BYaaiJTJapQ0ekfBLQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_eY-DOCt4tf_xpKEM5BYaaiJTJapQ0ekfBLQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_eY-DOCt4tf_xpKEM5BYaaiJTJapQ0ekfBLQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "PitbullVEVO",
+                        "description": "Pitbull on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+                    }
+                }
+            }
+        ]
+    }
+}

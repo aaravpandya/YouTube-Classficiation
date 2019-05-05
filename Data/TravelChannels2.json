@@ -1,0 +1,45 @@
+{
+    "UC4ijq8Cg-8zQKx8OH12dUSw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/lhYPDYK_rm8NQqBWAoH4hIV1fCM\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DAanmzjyjBQpxD-sCDuP45seKd0\"",
+                "id": "UC4ijq8Cg-8zQKx8OH12dUSw",
+                "snippet": {
+                    "title": "Kara and Nate",
+                    "description": "Hey, y'all! We are a husband and wife from Nashville, Tennessee traveling to 100 countries by 2020. It all started with an idea to take 1 year off before our lives got to serious, and we thought daily vlogs would be a fun way to document it. We left home with 2 carry-on bags on January 10, 2016, and halfway through we KNEW we didn't want to stop traveling the world anytime soon! Thank you for following our journey! \n\nPlease subscribe to our channel :)\n\ne-mail: nate@karaandnate.com\nInstagram: @karaandnate https://www.instagram.com/karaandnate/\nTwitter: @karaandnate https://twitter.com/karaandnate\nFacebook: https://www.facebook.com/karaandnate/",
+                    "customUrl": "karaandnate",
+                    "publishedAt": "2015-12-08T23:23:36.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_DIKD9Ho1LwqrzJfLfcAejQ9top3frKiG07A=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_DIKD9Ho1LwqrzJfLfcAejQ9top3frKiG07A=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_DIKD9Ho1LwqrzJfLfcAejQ9top3frKiG07A=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Kara and Nate",
+                        "description": "Hey, y'all! We are a husband and wife from Nashville, Tennessee traveling to 100 countries by 2020. It all started with an idea to take 1 year off before our lives got to serious, and we thought daily vlogs would be a fun way to document it. We left home with 2 carry-on bags on January 10, 2016, and halfway through we KNEW we didn't want to stop traveling the world anytime soon! Thank you for following our journey! \n\nPlease subscribe to our channel :)\n\ne-mail: nate@karaandnate.com\nInstagram: @karaandnate https://www.instagram.com/karaandnate/\nTwitter: @karaandnate https://twitter.com/karaandnate\nFacebook: https://www.facebook.com/karaandnate/"
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    }
+}

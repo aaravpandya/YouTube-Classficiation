@@ -1,0 +1,88 @@
+{
+    "marquesbrownlee": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KSidxTQ_T6V5qIEXnjTkGZRt78M\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/kz-Pble_dstETTprbjc8tpoe6Lg\"",
+                "id": "UCBJycsmduvYEL83R_U4JriQ",
+                "snippet": {
+                    "title": "Marques Brownlee",
+                    "description": "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!\n\nMy video production gear: https://kit.com/MKBHD/video-gear\n\nmarques@MKBHD.com\n\nNYC",
+                    "customUrl": "marquesbrownlee",
+                    "publishedAt": "2008-03-21T15:25:54.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79MlkJGCbk2bScrh1VjeXy1UG59DMs3ZncjCw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79MlkJGCbk2bScrh1VjeXy1UG59DMs3ZncjCw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79MlkJGCbk2bScrh1VjeXy1UG59DMs3ZncjCw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Marques Brownlee",
+                        "description": "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!\n\nMy video production gear: https://kit.com/MKBHD/video-gear\n\nmarques@MKBHD.com\n\nNYC"
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "UCVYamHliCI9rw1tHR1xbkfw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Kfk7n10Y1XKcunQjvpXB3U0YrGo\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TCOydy4GbmFMj8AaTA8vyIH5pe4\"",
+                "id": "UCVYamHliCI9rw1tHR1xbkfw",
+                "snippet": {
+                    "title": "Dave Lee",
+                    "description": "Hey everyone! My name is Dave and I make quality videos about useful tech.\nIf you're into that kinda stuff, subscribe!\n\nThanks for all the support =)",
+                    "customUrl": "dave2d",
+                    "publishedAt": "2015-01-05T17:24:15.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_s37rhx9sAr6DyU9F4M4myR97JFcc-EnNGHw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_s37rhx9sAr6DyU9F4M4myR97JFcc-EnNGHw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_s37rhx9sAr6DyU9F4M4myR97JFcc-EnNGHw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Dave Lee",
+                        "description": "Hey everyone! My name is Dave and I make quality videos about useful tech.\nIf you're into that kinda stuff, subscribe!\n\nThanks for all the support =)"
+                    },
+                    "country": "CA"
+                }
+            }
+        ]
+    }
+}

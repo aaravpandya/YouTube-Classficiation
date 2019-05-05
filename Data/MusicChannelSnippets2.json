@@ -1,0 +1,44 @@
+{
+    "EnriqueIglesiasPlay": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LCfMY58y85bi-rwiDFTp9JB-SVc\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/smmEf68MnjHQGopFJmZ4wJ_gWfQ\"",
+                "id": "UC-6czyMkxDi8E8akPl0c7_w",
+                "snippet": {
+                    "title": "Enrique Iglesias",
+                    "description": "This is the official YouTube channel for Enrique Iglesias.\n\nENRIQUE ON TOUR (Tickets): https://enriqueiglesias.com/events \n \nFOLLOW ENRIQUE:\nInstagram: http://www.instagram.com/enriqueiglesias \nFacebook: http://www.facebook.com/enriqueiglesias \nTwitter: http://www.twitter.com/enriqueiglesias \nSnapchat: enrique\nSign up to http://www.enriqueiglesias.com for exclusive access and offers.",
+                    "customUrl": "enriqueiglesias",
+                    "publishedAt": "2007-04-12T23:20:12.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_4UANKSXqxb_6wEwnjtJVBzJptI7Tv-ty07w=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_4UANKSXqxb_6wEwnjtJVBzJptI7Tv-ty07w=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_4UANKSXqxb_6wEwnjtJVBzJptI7Tv-ty07w=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Enrique Iglesias",
+                        "description": "This is the official YouTube channel for Enrique Iglesias.\n\nENRIQUE ON TOUR (Tickets): https://enriqueiglesias.com/events \n \nFOLLOW ENRIQUE:\nInstagram: http://www.instagram.com/enriqueiglesias \nFacebook: http://www.facebook.com/enriqueiglesias \nTwitter: http://www.twitter.com/enriqueiglesias \nSnapchat: enrique\nSign up to http://www.enriqueiglesias.com for exclusive access and offers."
+                    }
+                }
+            }
+        ]
+    }
+}

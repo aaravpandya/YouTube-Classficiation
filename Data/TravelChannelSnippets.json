@@ -1,0 +1,131 @@
+{
+    "UCa1WbVCkTqd5ecG6G2adIow": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IsGnEJ1w2U7TQtJe7EMK80a3xGs\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/RZ_oALaSVnSawSpoNQ71PX-U7hw\"",
+                "id": "UCa1WbVCkTqd5ecG6G2adIow",
+                "snippet": {
+                    "title": "vagabrothers",
+                    "description": "We're Alex and Marko.  We LIVE to TRAVEL.  Our journey of CULTURAL and CULINARY DISCOVERY takes us to some of the MOST INTERESTING PLACES in the WORLD.  Want to come with?  Subscribe. \n\nStay curious, keep exploring, and we will see you on the road! \n\nSEND US COOL THINGS FROM YOUR HOMETOWN!!! Here's our mailing address: \n\nMarko & Alex Ayling \n2633 Lincoln Blvd \n#921\nSanta Monica, CA 90405\nUnited States of America",
+                    "customUrl": "vagabrothers",
+                    "publishedAt": "2013-10-05T09:40:20.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_19FcEcO61ZpJtQWdfSL4qqemPn91MXSbbSg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_19FcEcO61ZpJtQWdfSL4qqemPn91MXSbbSg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_19FcEcO61ZpJtQWdfSL4qqemPn91MXSbbSg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "vagabrothers",
+                        "description": "We're Alex and Marko.  We LIVE to TRAVEL.  Our journey of CULTURAL and CULINARY DISCOVERY takes us to some of the MOST INTERESTING PLACES in the WORLD.  Want to come with?  Subscribe. \n\nStay curious, keep exploring, and we will see you on the road! \n\nSEND US COOL THINGS FROM YOUR HOMETOWN!!! Here's our mailing address: \n\nMarko & Alex Ayling \n2633 Lincoln Blvd \n#921\nSanta Monica, CA 90405\nUnited States of America"
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "ambitiemunitie": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/qVeSXy3oTIvEcWklpH1--NG6UzQ\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fQR4N9Ee1up9xW6cLpvzpM4YWvs\"",
+                "id": "UC3cQWF3e0qcIDEBzCzqp_SQ",
+                "snippet": {
+                    "title": "TRAVEL VLOG IV",
+                    "description": "Travel and food videos is what you'll find on this channel. Hi! My name's Ivana, but you can call me Iv.  For more than 3 years I've been traveling and eating delicious local food around the world. My travel channel was created for you to be able to travel with me and introduce you to some amazing food. It's such a joy getting comments everyday of people who've also decided to travel as well. Trust me the food is all worth it!\n\nTravel in India is something you can specifically find a lot of information of on this travel channel. India is my favourite country in the world. Also it won't be a surprise I absolutely adore Indian food. India is a phenomenal country and I simply can't get enough of travel here.  If you're planning on taking a trip to India I hope this channel helps you to plan for it.",
+                    "customUrl": "ambitiemunitie",
+                    "publishedAt": "2013-12-01T14:30:50.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78q1VegFflfncjioxiJgkvEwTfQtEupQz6xfg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78q1VegFflfncjioxiJgkvEwTfQtEupQz6xfg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78q1VegFflfncjioxiJgkvEwTfQtEupQz6xfg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TRAVEL VLOG IV",
+                        "description": "Travel and food videos is what you'll find on this channel. Hi! My name's Ivana, but you can call me Iv.  For more than 3 years I've been traveling and eating delicious local food around the world. My travel channel was created for you to be able to travel with me and introduce you to some amazing food. It's such a joy getting comments everyday of people who've also decided to travel as well. Trust me the food is all worth it!\n\nTravel in India is something you can specifically find a lot of information of on this travel channel. India is my favourite country in the world. Also it won't be a surprise I absolutely adore Indian food. India is a phenomenal country and I simply can't get enough of travel here.  If you're planning on taking a trip to India I hope this channel helps you to plan for it."
+                    },
+                    "country": "NL"
+                }
+            }
+        ]
+    },
+    "UCt_NLJ4McJlCyYM-dSPRo7Q": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EvTH8DmcZUd6C2F08PDFviystSU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/86frOi7RD2RNNZSwnJ6lAlxZk2M\"",
+                "id": "UCt_NLJ4McJlCyYM-dSPRo7Q",
+                "snippet": {
+                    "title": "Lost LeBlanc",
+                    "description": "QUIT my job to travel the world. This is my story of unconditionally pursuing my passion for filmmaking and travel.\n\nSubscribe to join the adventure and let's #GetLost together!\n\nhttps://www.instagram.com/lostleblanc/",
+                    "customUrl": "lostleblanc",
+                    "publishedAt": "2015-01-04T08:53:01.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-H_Ch4nPKt63jQlukaw7WoKkYhwR9aUUSw8g=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-H_Ch4nPKt63jQlukaw7WoKkYhwR9aUUSw8g=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-H_Ch4nPKt63jQlukaw7WoKkYhwR9aUUSw8g=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Lost LeBlanc",
+                        "description": "QUIT my job to travel the world. This is my story of unconditionally pursuing my passion for filmmaking and travel.\n\nSubscribe to join the adventure and let's #GetLost together!\n\nhttps://www.instagram.com/lostleblanc/"
+                    },
+                    "country": "CA"
+                }
+            }
+        ]
+    }
+}

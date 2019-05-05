@@ -1,0 +1,130 @@
+{
+    "UCsTcErHg8oDvUnTzoqsYeNw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1wGhAIlZPlVwP85r2LV7QOyVtio\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LQNClNTLUR-UvuRY2QV6kSns-zs\"",
+                "id": "UCsTcErHg8oDvUnTzoqsYeNw",
+                "snippet": {
+                    "title": "Unbox Therapy",
+                    "description": "Where products get naked.\n\nHere you will find a variety of videos showcasing the coolest products on the planet. From the newest smartphone to surprising gadgets and technology you never knew existed. It's all here on Unbox Therapy.\n\nBusiness / professional inquiries ONLY - business [at] unboxtherapy.com\n(please don't use YouTube inbox)",
+                    "customUrl": "unboxtherapy",
+                    "publishedAt": "2010-12-21T08:00:23.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-8HoU2dNYhpqwJo4rXojjmOAnpnc2iPkGj5g=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-8HoU2dNYhpqwJo4rXojjmOAnpnc2iPkGj5g=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-8HoU2dNYhpqwJo4rXojjmOAnpnc2iPkGj5g=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Unbox Therapy",
+                        "description": "Where products get naked.\n\nHere you will find a variety of videos showcasing the coolest products on the planet. From the newest smartphone to surprising gadgets and technology you never knew existed. It's all here on Unbox Therapy.\n\nBusiness / professional inquiries ONLY - business [at] unboxtherapy.com\n(please don't use YouTube inbox)"
+                    }
+                }
+            }
+        ]
+    },
+    "LinusTechTips": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TcIECtSNoKPbf38sFhnr9nEFyAk\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8M9iHAvyKOCBlQwyYdpx6B7XTtg\"",
+                "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "snippet": {
+                    "title": "Linus Tech Tips",
+                    "description": "We make entertaining videos about technology, including tech reviews, showcases and other content.\n\nLinusTechTips@gmail.com - Business inquiries only. All others will be ignored.",
+                    "customUrl": "LinusTechTips",
+                    "publishedAt": "2008-11-25T00:46:52.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_GPnSqhtxkf5pgDj4jdL3EfgJkG09iAXg3Og=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_GPnSqhtxkf5pgDj4jdL3EfgJkG09iAXg3Og=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_GPnSqhtxkf5pgDj4jdL3EfgJkG09iAXg3Og=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Linus Tech Tips",
+                        "description": "We make entertaining videos about technology, including tech reviews, showcases and other content.\n\nLinusTechTips@gmail.com - Business inquiries only. All others will be ignored."
+                    },
+                    "country": "CA"
+                }
+            }
+        ]
+    },
+    "coldfustion": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TezrFzeGLu3EDLvNcRijGawpLGw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QiCK0tJxE4LVp2INBMvx7-2xsKY\"",
+                "id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+                "snippet": {
+                    "title": "ColdFusion",
+                    "description": "Hi, welcome to ColdFusion (formerly known as ColdfusTion). My name is Dagogo Altraide and I create and narrate all the videos on here.\n\nThis channel aims to let you experience the cutting edge of the world around us in a relaxed atmosphere where you can feel at home and have fun. \nLearn the histories and some interesting facts about some of the worlds biggest companies such as Samsung, Facebook, Google, Apple, Tesla and more.\nDid you know Samsung has a military defense division?\nDid you know Tesla cars are starting to learn how to drive?\nDid you know Steve Jobs didn't know how to code when he first met Steve Wozniak?\nThere's plenty of useful information here, so be sure to subscribe so you can see it all!\n\nContact | *Business ONLY* dagogoa@gmail.com\n\nJoin the fun on: \n\n@ColdFusion_TV\n\nFacebook | www.facebook.com/coldfusiontv\n\nG+ | gplus.to/ColdfusTion",
+                    "customUrl": "coldfustion",
+                    "publishedAt": "2007-12-03T04:51:06.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_cnQTBoYK3ROlu-oVDmuoJORHvUwwb2GjsKA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_cnQTBoYK3ROlu-oVDmuoJORHvUwwb2GjsKA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_cnQTBoYK3ROlu-oVDmuoJORHvUwwb2GjsKA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "ColdFusion",
+                        "description": "Hi, welcome to ColdFusion (formerly known as ColdfusTion). My name is Dagogo Altraide and I create and narrate all the videos on here.\n\nThis channel aims to let you experience the cutting edge of the world around us in a relaxed atmosphere where you can feel at home and have fun. \nLearn the histories and some interesting facts about some of the worlds biggest companies such as Samsung, Facebook, Google, Apple, Tesla and more.\nDid you know Samsung has a military defense division?\nDid you know Tesla cars are starting to learn how to drive?\nDid you know Steve Jobs didn't know how to code when he first met Steve Wozniak?\nThere's plenty of useful information here, so be sure to subscribe so you can see it all!\n\nContact | *Business ONLY* dagogoa@gmail.com\n\nJoin the fun on: \n\n@ColdFusion_TV\n\nFacebook | www.facebook.com/coldfusiontv\n\nG+ | gplus.to/ColdfusTion"
+                    },
+                    "country": "AU"
+                }
+            }
+        ]
+    }
+}

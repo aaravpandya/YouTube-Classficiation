@@ -1,0 +1,382 @@
+{
+    "TheGreatWar": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jb8xTOBDR5b9VTLrHjreYrlJPh8\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8K6qxABNxSefeoX1WglT7Tw0zlw\"",
+                "id": "UCUcyEsEjhPEDf69RRVhRh4A",
+                "snippet": {
+                    "title": "The Great War",
+                    "description": "The Great War covers the First World War from 1914 to 1923 \u2013 in real time. Every other week, Jesse Alexander cover the important events that influenced the world 100 years ago. Form 2014 - 2018, Indiana Neidell followed the main events of what is classically considered as World War 1 on a weekly basis. \n\nYou can support our show on Patreon: http://patreon.com/thegreatwar\n\n___\n\u201cThe Great War\u201d is a YouTube channel of\nMediakraft Networks GmbH\nNeue Weyerstra\u00dfe 6\n50676 K\u00f6ln\n\n\u201cThe Great War\u201d is produced by\nRTH - Real Time History GmbH\nPappelallee 78/79\n10437 Berlin\n\nVideos published between 2014 - 2018 Contain material licensed from British Path\u00e9\nAll rights reserved - \u00a9 Mediakraft Networks GmbH, 2018",
+                    "customUrl": "thegreatwarseries",
+                    "publishedAt": "2014-05-14T12:11:43.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78yQCl8rer8M_7QvpQx4DUX6E-uKyCN4FE3Zg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78yQCl8rer8M_7QvpQx4DUX6E-uKyCN4FE3Zg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l78yQCl8rer8M_7QvpQx4DUX6E-uKyCN4FE3Zg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "The Great War",
+                        "description": "The Great War covers the First World War from 1914 to 1923 \u2013 in real time. Every other week, Jesse Alexander cover the important events that influenced the world 100 years ago. Form 2014 - 2018, Indiana Neidell followed the main events of what is classically considered as World War 1 on a weekly basis. \n\nYou can support our show on Patreon: http://patreon.com/thegreatwar\n\n___\n\u201cThe Great War\u201d is a YouTube channel of\nMediakraft Networks GmbH\nNeue Weyerstra\u00dfe 6\n50676 K\u00f6ln\n\n\u201cThe Great War\u201d is produced by\nRTH - Real Time History GmbH\nPappelallee 78/79\n10437 Berlin\n\nVideos published between 2014 - 2018 Contain material licensed from British Path\u00e9\nAll rights reserved - \u00a9 Mediakraft Networks GmbH, 2018"
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "UC2a8JI8JjgdY8ETxnAqBckg": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TDnjv_3FA8hSdjqrAf4WHyaxHok\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1A_iVmVLJPfUsxyzy5zjzWicOMg\"",
+                "id": "UC2a8JI8JjgdY8ETxnAqBckg",
+                "snippet": {
+                    "title": "History Class",
+                    "description": "I was a history teacher for a short time. I was disappointed because most of my students were not interested in learning history. The I understand that there are only a few people around the world who are passionate about history.\n\nFrom that point I decided to make history videos in English (although I am not a native speaker of English), only for those who are interested in learning new things related to history. Here I will upload all kind of history videos, about main events, explained so everybody can understand what happened.",
+                    "publishedAt": "2016-11-01T07:42:58.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_VnxQ96JMw8wiAXT3vAPff1_wNpWhFYG599Q=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_VnxQ96JMw8wiAXT3vAPff1_wNpWhFYG599Q=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_VnxQ96JMw8wiAXT3vAPff1_wNpWhFYG599Q=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "History Class",
+                        "description": "I was a history teacher for a short time. I was disappointed because most of my students were not interested in learning history. The I understand that there are only a few people around the world who are passionate about history.\n\nFrom that point I decided to make history videos in English (although I am not a native speaker of English), only for those who are interested in learning new things related to history. Here I will upload all kind of history videos, about main events, explained so everybody can understand what happened."
+                    }
+                }
+            }
+        ]
+    },
+    "UComXnN88_kKnF7wIQgq4vIw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JdZHz_i9tDhYOsn7hLVt1j_LwgU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/NXQgIwfkRAOT4eUsg8uFVDrWkrM\"",
+                "id": "UComXnN88_kKnF7wIQgq4vIw",
+                "snippet": {
+                    "title": "Ancient History Lover",
+                    "description": "This channel is educational \nif you love history and you enjoy learning about World History then this channel is for you.\n\n\"History... is, indeed, little more than the register of the 'crimes, follies, and misfortunes' of mankind. But what experience and history teach is this - that peoples and governments have never learned anything from history, or acted on principles deduced from it. \"\nGeorg Wilhelm Friedrich Hegel\n\n\n\n\n\n\n\n\nFor new subscribers i highly recommend that they start watching videos from Channel's playlist\nhttps://www.youtube.com/watch?v=n_rXvze-RTU&list=PL594AstrUMtjXJRyiQAPkQjsXq4WBqjbK\n\nIf you want to contact me, you can send me an Email on Ancient.history.yt@gmail.com\n\nAnd also i like to mention that my channel is non-monetized channel. so if you see an ad on one of my videos that probably belongs to owner of the video.",
+                    "publishedAt": "2016-04-12T06:16:54.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79Pp8fiEAjRZYzQhynFVCb6YTOGwkwieZmYyw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79Pp8fiEAjRZYzQhynFVCb6YTOGwkwieZmYyw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79Pp8fiEAjRZYzQhynFVCb6YTOGwkwieZmYyw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Ancient History Lover",
+                        "description": "This channel is educational \nif you love history and you enjoy learning about World History then this channel is for you.\n\n\"History... is, indeed, little more than the register of the 'crimes, follies, and misfortunes' of mankind. But what experience and history teach is this - that peoples and governments have never learned anything from history, or acted on principles deduced from it. \"\nGeorg Wilhelm Friedrich Hegel\n\n\n\n\n\n\n\n\nFor new subscribers i highly recommend that they start watching videos from Channel's playlist\nhttps://www.youtube.com/watch?v=n_rXvze-RTU&list=PL594AstrUMtjXJRyiQAPkQjsXq4WBqjbK\n\nIf you want to contact me, you can send me an Email on Ancient.history.yt@gmail.com\n\nAnd also i like to mention that my channel is non-monetized channel. so if you see an ad on one of my videos that probably belongs to owner of the video."
+                    }
+                }
+            }
+        ]
+    },
+    "UCMkybZyI_B-xgkLQo_eCQ_w": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/x9QRCCdH3zYHpPN3inquVJdjGyw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/55uJBJPTzIPSKluQRNysxpFYXH0\"",
+                "id": "UCMkybZyI_B-xgkLQo_eCQ_w",
+                "snippet": {
+                    "title": "American Museum of Natural History",
+                    "description": "The American Museum of Natural History is one of the world's preeminent scientific and cultural institutions. Since its founding in 1869, the Museum has advanced its global mission to discover, interpret and disseminate information about human cultures, the natural world and the universe through a wide-ranging program of scientific research, education and exhibition. The Museum is renowned for its exhibitions and scientific collections, which serve as a field guide to the entire planet and present a panorama of the world's cultures.",
+                    "customUrl": "americanmuseumofnaturalhistory",
+                    "publishedAt": "2008-05-22T15:16:51.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79xIeABOMDpZ-TvinwhiWRMo-PFGQVUIHY3Rg=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79xIeABOMDpZ-TvinwhiWRMo-PFGQVUIHY3Rg=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79xIeABOMDpZ-TvinwhiWRMo-PFGQVUIHY3Rg=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "American Museum of Natural History",
+                        "description": "The American Museum of Natural History is one of the world's preeminent scientific and cultural institutions. Since its founding in 1869, the Museum has advanced its global mission to discover, interpret and disseminate information about human cultures, the natural world and the universe through a wide-ranging program of scientific research, education and exhibition. The Museum is renowned for its exhibitions and scientific collections, which serve as a field guide to the entire planet and present a panorama of the world's cultures."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "mableclaid": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/efi0UNTFAJJoJ2jwKNTdhTZki4U\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ub9QmF6NyxC7GX0hHgOMlMPzNew\"",
+                "id": "UCN5DnnodEB9ozbPp3PrrZKw",
+                "snippet": {
+                    "title": "History Illustrated",
+                    "description": "My name is Justin Weinmann. I'm a teacher and artist... most of the time.",
+                    "customUrl": "mableclaid",
+                    "publishedAt": "2006-07-29T04:36:18.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_umUDD9Xuf6gaxjTQjonYBm2G9NInyIPmKOA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_umUDD9Xuf6gaxjTQjonYBm2G9NInyIPmKOA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7_umUDD9Xuf6gaxjTQjonYBm2G9NInyIPmKOA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "History Illustrated",
+                        "description": "My name is Justin Weinmann. I'm a teacher and artist... most of the time."
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    },
+    "UCb7xZQi7F3RW7BNtR57cNnA": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/I9ykhY8e56yyfVmF6ULJBh2Hr0A\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Qke-eG4DhA9cgsyRaK6DviaangA\"",
+                "id": "UCb7xZQi7F3RW7BNtR57cNnA",
+                "snippet": {
+                    "title": "Reel Truth History Documentaries",
+                    "description": "Welcome to Reel Truth History, the home of gripping and powerful documentaries. Here you can watch both full length documentaries and series that explore some of the most comprehensive pieces of world history.\n\nAll content distributed via Endemol Shine Group & it\u2019s affiliate production labels, Endemol Shine International & Sideways Films. Any enquiries please contact: digitalops@endemolshine.com",
+                    "publishedAt": "2018-05-31T09:14:14.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79aRmGHyFPe0zfa7o1Qvm0pBsIS00k0GUCcQw=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79aRmGHyFPe0zfa7o1Qvm0pBsIS00k0GUCcQw=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l79aRmGHyFPe0zfa7o1Qvm0pBsIS00k0GUCcQw=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Reel Truth History Documentaries",
+                        "description": "Welcome to Reel Truth History, the home of gripping and powerful documentaries. Here you can watch both full length documentaries and series that explore some of the most comprehensive pieces of world history.\n\nAll content distributed via Endemol Shine Group & it\u2019s affiliate production labels, Endemol Shine International & Sideways Films. Any enquiries please contact: digitalops@endemolshine.com"
+                    }
+                }
+            }
+        ]
+    },
+    "UC88lvyJe7aHZmcvzvubDFRg": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/m6HmRXwVRSpyW5ZFVSrsaU9aslA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dzkqg_Cl6D2zQy6rA9BC2ME6ekQ\"",
+                "id": "UC88lvyJe7aHZmcvzvubDFRg",
+                "snippet": {
+                    "title": "Timeline - World History Documentaries",
+                    "description": "Welcome to Timeline - the home of world history. Every week we'll be bringing you one-off documentaries and series from the world's top broadcasters, including the BBC, Channel 4, Discovery and PBS. We'll be exploring the mysteries of ancient Egypt, shedding light on the dark ages of medieval Europe and examining the First and Second World Wars. Subscribe so you don't miss out.\n\nContent on our channel is licensed from:\n\nDigital Rights Group\nITV Global Studios\nAll3Media International\nTVF International\nJava Films\nOff The Fence",
+                    "customUrl": "timelinechannel",
+                    "publishedAt": "2017-01-17T12:36:53.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-kNiCT-eNc_cp8-RJs1Rq27go4r2rx5JaVqA=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-kNiCT-eNc_cp8-RJs1Rq27go4r2rx5JaVqA=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-kNiCT-eNc_cp8-RJs1Rq27go4r2rx5JaVqA=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Timeline - World History Documentaries",
+                        "description": "Welcome to Timeline - the home of world history. Every week we'll be bringing you one-off documentaries and series from the world's top broadcasters, including the BBC, Channel 4, Discovery and PBS. We'll be exploring the mysteries of ancient Egypt, shedding light on the dark ages of medieval Europe and examining the First and Second World Wars. Subscribe so you don't miss out.\n\nContent on our channel is licensed from:\n\nDigital Rights Group\nITV Global Studios\nAll3Media International\nTVF International\nJava Films\nOff The Fence"
+                    }
+                }
+            }
+        ]
+    },
+    "UCMmaBzfCCwZ2KqaBJjkj0fw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wtkiqnXM0mnDucNVh4q-E_Xsrn8\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/0FverdLx2a4AlDqNHQS8QgHD7fE\"",
+                "id": "UCMmaBzfCCwZ2KqaBJjkj0fw",
+                "snippet": {
+                    "title": "Kings and Generals",
+                    "description": "We create animated historical documentaries. Currently, we are running parallel series covering the Mongol invasions, Hundred Years' War, Napoleonic Wars, Ottoman Conquests and the Restoration of Justinian. Consider supporting us on Patreon: https://www.patreon.com/kingsandgenerals or PayPal: http://paypal.me/kingsandgenerals as that would allow us to create more and better documentaries.",
+                    "customUrl": "kingsandgenerals",
+                    "publishedAt": "2016-05-07T23:51:37.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-nVVM9S4FgzcvXVDeI-mfi9DnjxsdVEozMRQ=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-nVVM9S4FgzcvXVDeI-mfi9DnjxsdVEozMRQ=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-nVVM9S4FgzcvXVDeI-mfi9DnjxsdVEozMRQ=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Kings and Generals",
+                        "description": "We create animated historical documentaries. Currently, we are running parallel series covering the Mongol invasions, Hundred Years' War, Napoleonic Wars, Ottoman Conquests and the Restoration of Justinian. Consider supporting us on Patreon: https://www.patreon.com/kingsandgenerals or PayPal: http://paypal.me/kingsandgenerals as that would allow us to create more and better documentaries."
+                    },
+                    "country": "CA"
+                }
+            }
+        ]
+    },
+    "UCwO-UgquohXwoe7f0e6lMnw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bD0lWz_RRSQkQ9RpKJthdY6nU0g\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/hwiYuSchqAh7u-0JXRe09zXClbU\"",
+                "id": "UCwO-UgquohXwoe7f0e6lMnw",
+                "snippet": {
+                    "title": "Invicta",
+                    "description": "Documentary videos on all things history! We explore our fascinating past with a strong emphasis on the human experiences the defines our story. Featured series include \"Moments\" and \"The Art of War\".\n\n\nComputer Specs:\nCPU: Intel\u00ae Core\u2122 Processor i5-7600K 3.80GHZ 6MB Intel Smart Cache LGA1151 (Kaby Lake)\nMemory: 16GB (4GBx4) DDR4/3000MHz Dual Channel Memory (Patriot Viper Elite)\nHard Drive: 120GB ADATA SP550 SSD + 2TB SATA III Hard Drive Combo (Combo Drive)\nVideo Card: GeForce\u00ae GTX 1070 8GB GDDR5 (Pascal)[VR Ready] (Single Card)",
+                    "customUrl": "THFEProductions",
+                    "publishedAt": "2013-02-01T01:33:01.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-IkDxuCk5Xvj5qFo3GnReDWYEzqvfGFHKMng=s88-mo-c-c0xffffffff-rj-k-no",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-IkDxuCk5Xvj5qFo3GnReDWYEzqvfGFHKMng=s240-mo-c-c0xffffffff-rj-k-no",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AGF-l7-IkDxuCk5Xvj5qFo3GnReDWYEzqvfGFHKMng=s800-mo-c-c0xffffffff-rj-k-no",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Invicta",
+                        "description": "Documentary videos on all things history! We explore our fascinating past with a strong emphasis on the human experiences the defines our story. Featured series include \"Moments\" and \"The Art of War\".\n\n\nComputer Specs:\nCPU: Intel\u00ae Core\u2122 Processor i5-7600K 3.80GHZ 6MB Intel Smart Cache LGA1151 (Kaby Lake)\nMemory: 16GB (4GBx4) DDR4/3000MHz Dual Channel Memory (Patriot Viper Elite)\nHard Drive: 120GB ADATA SP550 SSD + 2TB SATA III Hard Drive Combo (Combo Drive)\nVideo Card: GeForce\u00ae GTX 1070 8GB GDDR5 (Pascal)[VR Ready] (Single Card)"
+                    },
+                    "country": "US"
+                }
+            }
+        ]
+    }
+}
