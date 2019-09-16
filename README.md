@@ -1,4 +1,4 @@
-# Internship Assignment
+# YouTube Classification Job
 
 ## Code arrangement
 Data directory contains the code files and raw dataset. Output.csv is the final dataset which is present in the main directory.
